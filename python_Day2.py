@@ -86,6 +86,7 @@
 # enter a 2, display “Well done”, if they enter a 3, display “Correct”. If they enter anything else,
 # display “Error message”
 
+
 print("Enter 1 or 2 or 3")
 user_input = int(input("Enter a number of your choice: "))
 
